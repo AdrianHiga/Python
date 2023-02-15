@@ -1,0 +1,1 @@
+print('Olá, Mundo!', type('Olá, Mundo!'))
